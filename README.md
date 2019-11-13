@@ -1,2 +1,2 @@
 # solutions
-Solutions to assements &amp; training.
+Solutions to training excersises. 
